@@ -17,7 +17,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=Tic-Tac-Toe-JS)](https://github.com/abdelp/Tic-Tac-Toe-JS) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=private-events)](https://github.com/abdelp/private-events)
 
 
-## Stats
+## My Stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=abdelp&show_icons=true" alt="abdelp" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelp" />
 |---|---|
