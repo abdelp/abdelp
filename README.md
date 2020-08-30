@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/abdel-perez/">Abdel Pérez</a> :smiley:
+# <a href="https://www.linkedin.com/in/abdel-perez/">Abdel Pérez</a> :smiley:
 
 ## About :sunglasses:
 
@@ -8,7 +8,7 @@
 
 * Microsoft Student Partner
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/PrifyPhilip) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Amchuz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/prify-philip-343b53150/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](amchu1714@gmail.com)
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/AbdelP) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/abdel-perez/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](juniorperezpy@gmail.com)
 |---|---|---|---|---|---|
 
 ----
@@ -19,8 +19,18 @@
 
 ### Take a look at my portfolio...
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdelp&show_icons=true" alt="abdelp" />
+<div class="display: flex">
+  <div>
+    <a href="https://github.com/abdelp">
+      <img src="https://github-readme-stats.vercel.app/api?username=abdelp&show_icons=true" alt="abdelp" />
+    </a>
+  </div>
+  <div>
+  <a href="https://github.com/abdelp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelp" />
+  </a>
+  </div>
+</div>
 
 ### - Languages and Tools
 
