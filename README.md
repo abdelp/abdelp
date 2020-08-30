@@ -38,12 +38,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </p>
 
-### Most used languages
-
-<a href="https://github.com/ashwanisng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelp" />
-</a>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/abdelp/count.svg" />
