@@ -24,18 +24,13 @@
 
 ### Take a look at my portfolio...
 
-<div style="display: flex">
-  <div>
-    <a href="https://github.com/abdelp">
-      <img src="https://github-readme-stats.vercel.app/api?username=abdelp&show_icons=true" alt="abdelp" />
-    </a>
-  </div>
-  <div>
-  <a href="https://github.com/abdelp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelp" />
-  </a>
-  </div>
-</div>
+Stats | Languages
+------------ | -------------
+<a href="https://github.com/abdelp">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelp&show_icons=true" alt="abdelp" />
+</a> | <a href="https://github.com/abdelp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelp" />
+</a>
 
 ### - Languages and Tools
 
