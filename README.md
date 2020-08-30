@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm <a href="https://www.linkedin.com/in/abdel-perez/">Abdel Pérez</a>!
 
-| [<img src="./twitter.svg" alt="twitter logo" width="34">](https://twitter.com/AbdelPerez11) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/abdel-perez/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](juniorperezpy@gmail.com)
-|---|---|---|
+[<img src="./twitter.svg" alt="twitter logo" width="30">](https://twitter.com/AbdelPerez11)
+[<img src="./linkedin.svg" alt="linkedin logo" width="30">](https://www.linkedin.com/in/abdel-perez/)
+<a href="mailto: juniorperezpy@gmail.com"><img src="./gmail.svg" alt="gmail logo" width="30"></a>
 
 ## About me
 
