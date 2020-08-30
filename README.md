@@ -19,7 +19,7 @@
 
 ### Take a look at my portfolio...
 
-<div class="display: flex">
+<div style="display: flex">
   <div>
     <a href="https://github.com/abdelp">
       <img src="https://github-readme-stats.vercel.app/api?username=abdelp&show_icons=true" alt="abdelp" />
