@@ -5,29 +5,29 @@
 
 ## About me
 
-- 💻 I’m currently working on [AdopcionesEc](https://github.com/sebGilR/AdopcionesEc), a platform to make adopting a pet easier.
-- ⚙️ I use in my projects: **css, sass, ruby, ruby on rails, postgresql, javascript, react, redux.**
-- 🧠 I'm learning about **CS algorithms and data structures.**
-- 🛠 Fun fact: 
+- 💻 I'm a Full-Stack Developer.
+- ⚙️ 
+- 🧠 
+- 🛠 
 
 <p align="center">
   I'm a Full-Stack Developer with...
 </p>
 
-* Microsoft Student Partner
-
 ----
 
-### Some of my projects
+## Some of my projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=ror-capstone)](https://github.com/abdelp/ror-capstone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=https://github.com/abdelp/todo-list-js)](https://github.com/abdelp/https://github.com/abdelp/todo-list-js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=https://github.com/abdelp/weather-app)](https://github.com/abdelp/https://github.com/abdelp/weather-app)
 
-### Stats
+## Stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=abdelp&show_icons=true" alt="abdelp" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelp" />
 |---|---|
 
-### Languages and Tools...
+## Languages and Tools...
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
