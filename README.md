@@ -1,4 +1,4 @@
-## Hi there 👋, I'm <a href="https://www.linkedin.com/in/abdel-perez/">Abdel Pérez</a>
+## Hi there 👋, I'm <a href="https://www.linkedin.com/in/abdel-perez/">Abdel Pérez</a>!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/AbdelP) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/abdel-perez/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](juniorperezpy@gmail.com)
 |---|---|---|
@@ -9,10 +9,6 @@
 - ⚙️ Most of my projects were made doing remote pair programming.
 - 🧠 I'm currently studying algorithms and data structures, writing articles and tutorials.
 - 🛠 
-
-<p align="center">
-  I'm a Full-Stack Developer with...
-</p>
 
 ----
 
