@@ -1,6 +1,15 @@
-# <a href="https://www.linkedin.com/in/abdel-perez/">Abdel Pérez</a> :smiley:
+<html>
+  <head>
+  </head>
+  <body>
+## Hi there 👋, I'm <a href="https://www.linkedin.com/in/abdel-perez/">Abdel Pérez</a>
 
-## About :sunglasses:
+## About me
+
+- 💻 I’m currently working on [AdopcionesEc](https://github.com/sebGilR/AdopcionesEc), a platform to make adopting a pet easier.
+- ⚙️ I use in my projects: **css, sass, ruby, ruby on rails, postgresql, javascript, react, redux.**
+- 🧠 I'm learning about **CS algorithms and data structures.**
+- 🛠 Fun fact: 
 
 <p align="center">
     I'm a Full-Stack Developer with...
