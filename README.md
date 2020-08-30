@@ -8,14 +8,13 @@
 - 💻 I'm a Full-Stack Developer, I also worked as a DBA for almost 4 years. 
 - ⚙️ Most of my projects were made doing remote pair programming.
 - 🧠 I'm currently studying algorithms and data structures, writing articles and tutorials.
-- 🛠 
+- 🧘 I love to do meditation.
 
 ## Some of my projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=ror-capstone)](https://github.com/abdelp/ror-capstone) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=todo-list-js)](https://github.com/abdelp/todo-list-js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=weather-app)](https://github.com/abdelp/weather-app) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=html-capstone)](https://github.com/abdelp/html-capstone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=Tic-Tac-Toe-JS)](https://github.com/abdelp/Tic-Tac-Toe-JS) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=private-events)](https://github.com/abdelp/private-events)
-
 
 ## My Stats
 
