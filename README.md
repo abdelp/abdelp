@@ -18,9 +18,8 @@
 
 ## Some of my projects
 
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=ror-capstone)](https://github.com/abdelp/ror-capstone) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=todo-list-js)](https://github.com/abdelp/todo-list-js)
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=weather-app)](https://github.com/abdelp/weather-app) |
-|--|--|
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=ror-capstone)](https://github.com/abdelp/ror-capstone) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=todo-list-js)](https://github.com/abdelp/todo-list-js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=weather-app)](https://github.com/abdelp/weather-app)
 
 ## Stats
 
