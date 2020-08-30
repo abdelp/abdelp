@@ -12,12 +12,6 @@
 <p>🧠 I'm currently studying algorithms and data structures, writing articles and tutorials.</p>
 <p>🧘 I love to meditate.</p>
 
-## Some of my projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=ror-capstone)](https://github.com/abdelp/ror-capstone) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=todo-list-js)](https://github.com/abdelp/todo-list-js)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=weather-app)](https://github.com/abdelp/weather-app) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=html-capstone)](https://github.com/abdelp/html-capstone)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=Tic-Tac-Toe-JS)](https://github.com/abdelp/Tic-Tac-Toe-JS) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=private-events)](https://github.com/abdelp/private-events)
-
 ## My Stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=abdelp&show_icons=true" alt="abdelp" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelp" />
