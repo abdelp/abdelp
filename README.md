@@ -1,9 +1,7 @@
 ## Hi there 👋, I'm <a href="https://www.linkedin.com/in/abdel-perez/">Abdel Pérez</a>
 
-<p align="center">
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/AbdelP) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/abdel-perez/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](juniorperezpy@gmail.com)
 |---|---|---|
-</p>
 
 ## About me
 
@@ -26,9 +24,9 @@
 
 ### Take a look at my portfolio...
 
-Stats | Languages
------------- | -------------
-<img src="https://github-readme-stats.vercel.app/api?username=abdelp&show_icons=true" alt="abdelp" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelp" />
+
+| <img src="https://github-readme-stats.vercel.app/api?username=abdelp&show_icons=true" alt="abdelp" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelp" />
+|---|---|
 
 ### Languages and Tools...
 
