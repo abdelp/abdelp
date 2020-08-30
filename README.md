@@ -22,8 +22,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelp&repo=ror-capstone)](https://github.com/abdelp/ror-capstone)
 
-### Take a look at my portfolio...
-
+### Stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=abdelp&show_icons=true" alt="abdelp" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelp" />
 |---|---|
