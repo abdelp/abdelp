@@ -8,7 +8,7 @@
 - 💻 I'm a Full-Stack Developer, I also worked as a DBA for almost 4 years. 
 - ⚙️ Most of my projects were made doing remote pair programming.
 - 🧠 I'm currently studying algorithms and data structures, writing articles and tutorials.
-- 🧘 I love to do meditation.
+- 🧘 I love to meditate.
 
 ## Some of my projects
 
