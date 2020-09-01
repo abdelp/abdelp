@@ -1,7 +1,9 @@
-[<img src="https://raw.githubusercontent.com/abdelp/abdelp/master/twitter.svg" alt="twitter logo" width="20">](https://twitter.com/AbdelPerez11)
-[<img src="https://raw.githubusercontent.com/abdelp/abdelp/master/linkedin.svg" alt="linkedin logo" width="20">](https://www.linkedin.com/in/abdel-perez/)
-<a href="mailto: juniorperezpy@gmail.com"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/gmail.svg" alt="gmail logo" width="20"></a>
-[<img src="https://raw.githubusercontent.com/abdelp/abdelp/master/stack-overflow.svg" alt="stack-overflow logo" width="20">](https://stackoverflow.com/users/6121888/abdel-p)
+<p align="center">
+  <a href="https://twitter.com/AbdelPerez11"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/twitter.svg" alt="twitter logo" height="20"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdel-perez/"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
+  <a href="mailto: juniorperezpy@gmail.com"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/6121888/abdel-p"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/stack-overflow.svg" alt="stack-overflow logo" height="20"></a>&nbsp;&nbsp;
+</p>
 
 ## Hi there 👋, I'm <a href="https://www.linkedin.com/in/abdel-perez/">Abdel Pérez</a>!
 
