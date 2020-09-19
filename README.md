@@ -22,11 +22,17 @@
 ## Languages and Tools...
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/js.svg" alt="JS" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/react.svg" alt="React" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/npm.svg" alt="NPM" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/angular.svg" alt="Bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/bootstrap.svg" alt="Bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/css3.svg" alt="Bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/ionic.svg" alt="Bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/jquery.svg" alt="Bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/sass.svg" alt="Bash" style="vertical-align:top; margin:4px">
 </p>
 
 <p align="center"> 
