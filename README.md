@@ -12,7 +12,7 @@
 <p>💻 I'm a Full-Stack Developer, I also worked as a DBA for almost 4 years.</p>
 <p>⚙️ Most of my projects were made by doing remote pair programming.</p>
 <p>🧠 I'm currently studying algorithms and data structures, writing articles and tutorials.</p>
-<p>🧘 I love to meditate.</p>
+<p>🧘‍♂️ I love to meditate.</p>
 
 ## My Stats
 
