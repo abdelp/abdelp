@@ -29,10 +29,11 @@
   <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/angular.svg" alt="Bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/bootstrap.svg" alt="Bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/css3.svg" alt="Bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/ionic.svg" alt="Bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/jquery.svg" alt="Bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/sass.svg" alt="Bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/ionic.svg" alt="Ionic" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/jquery.svg" alt="jQuery" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/sass.svg" alt="Sass" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abdelp/abdelp/master/badges/git.svg" alt="Git" style="vertical-align:top; margin:4px">
 </p>
 
 <p align="center"> 
