@@ -37,7 +37,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/git-CB3837.svg?&style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 
 <p align="center"> 
