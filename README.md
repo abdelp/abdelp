@@ -33,11 +33,11 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![RUBY](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 ![RAILS](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![BASH](https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=bash&logoColor=white)
+![BASH](https://img.shields.io/badge/gnu-bash-4EAA25.svg?&style=for-the-badge&logo=bash&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)
 
 
 <p align="center"> 
