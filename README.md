@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://twitter.com/AbdelPerez11"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/twitter.svg" alt="twitter logo" height="20"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abdel-perez/"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
-  <a href="mailto: juniorperezpy@gmail.com"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
+  <a href="mailto:abdel.perezpy@gmail.com"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/6121888/abdel-p"><img src="https://raw.githubusercontent.com/abdelp/abdelp/master/stack-overflow.svg" alt="stack-overflow logo" height="20"></a>&nbsp;&nbsp;
 </p>
 
