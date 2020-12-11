@@ -13,7 +13,7 @@
 <p>⚙️ Most of my projects were made by doing remote pair programming.</p>
 <p>🧠 I'm currently studying algorithms and data structures, writing articles and tutorials.</p>
 <p>🧘‍♂️ I love to meditate.</p>
-<p>🗎  You can download my resume [here](https://docs.google.com/document/d/1kgzH5El-Ld0zpymysndSEAFcLKg65JcNKqN9H94R4yE/export?format=pdf).</p>
+<p>📄 You can download my resume <a href="https://docs.google.com/document/d/1kgzH5El-Ld0zpymysndSEAFcLKg65JcNKqN9H94R4yE/export?format=pdf">here</a>.</p>
 
 ## My Stats
 
